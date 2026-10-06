@@ -1,4 +1,4 @@
-test
+
 1. Home SIEM
 
 Requirements:
@@ -14,4 +14,6 @@ We have home server hardware ready, Esxi 6.7 running machines, that is set-up, n
 internet -> Bridge -> Firewall (router) -> Switch
 	                            -> Security Onion (IDS Suricata, ELK stack, Sgull, etc)
 	                            -> LAN (IP Class A/C)
-					            -> LAN 
+					            -> LAN -> AP -> Devices
+
+Asa ar arata basic infra-ul pentru un SIEM
