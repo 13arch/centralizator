@@ -28,8 +28,3 @@ OSSEC: https://github.com/ossec/ossec-hids/tree/main
 SecurityOnion: https://github.com/Security-Onion-Solutions/securityonion/
 
 Se poate eventual face ceva si cu microservices.
-
-test
-
-
-aaaaaaaaa
