@@ -18,4 +18,12 @@ internet -> Bridge -> Firewall (router) -> Switch
 
 Asa ar arata basic infra-ul pentru un SIEM
 
-test
+
+Urmatorul lucru ar trebui vazut: Daca dorim sa mergem pe open-source, de unde ne-am putea inspira in a scrie totul de la 0
+
+Cateva idei pentru open source:
+
+Wazuh: https://github.com/wazuh/wazuh/tree/main
+OSSEC: https://github.com/ossec/ossec-hids/tree/main
+SecurityOnion: https://github.com/Security-Onion-Solutions/securityonion/
+
