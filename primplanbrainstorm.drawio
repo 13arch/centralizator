@@ -32,6 +32,9 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
+                <mxCell id="45" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="44">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
                 <mxCell id="2" value="Cm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="40" y="160" width="120" height="40" as="geometry"/>
                 </mxCell>
@@ -47,8 +50,8 @@
                 <mxCell id="6" value="c4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="200" y="280" width="120" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="Legenda:&lt;br&gt;&lt;br&gt;Cm -&amp;gt; Container main&lt;br&gt;C1...n -&amp;gt; Container specializat pe services&lt;br&gt;Ce -&amp;gt; Container expus spre WAN/LAN&lt;br&gt;t1...n -&amp;gt; Tipuri de log-uri" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="-35" y="345" width="280" height="100" as="geometry"/>
+                <mxCell id="11" value="Legenda:&lt;br&gt;&lt;br&gt;Cm -&amp;gt; Container main&lt;br&gt;C1...n -&amp;gt; Container specializat pe services&lt;br&gt;Ce -&amp;gt; Container expus spre WAN/LAN&lt;br&gt;t1...n -&amp;gt; Tipuri de log-uri&lt;br&gt;SIEM -&amp;gt; Unde totul e parsed de la Cm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-35" y="340" width="280" height="110" as="geometry"/>
                 </mxCell>
                 <mxCell id="24" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="12" target="20">
                     <mxGeometry relative="1" as="geometry">
@@ -161,6 +164,9 @@
                 </mxCell>
                 <mxCell id="23" value="t4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="400" y="280" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" value="SIEM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-120" y="160" width="120" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
