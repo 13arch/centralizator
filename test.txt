@@ -1,1 +1,17 @@
 test
+1. Home SIEM
+
+Requirements:
+
+Basic net knowledge (subnets + net segmentation)
+Vendor instructions and applying vendor instructions
+Network capable of having more than 1 subnet and ability to copy all network traffic to an Eth port.
+
+Parts list:
+
+We have home server hardware ready, Esxi 6.7 running machines, that is set-up, no problems.
+
+internet -> Bridge -> Firewall (router) -> Switch
+	                            -> Security Onion (IDS Suricata, ELK stack, Sgull, etc)
+	                            -> LAN (IP Class A/C)
+					            -> LAN 
