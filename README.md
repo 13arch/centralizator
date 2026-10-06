@@ -1,0 +1,2 @@
+# centralizator
+Brainstorming
