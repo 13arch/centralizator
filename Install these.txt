@@ -1,0 +1,5 @@
+Recomand sa instalezi:
+
+1.VSCode
+
+2. Extension pentru VSCode -> Draw.io (pentru vizualizare mai clara, nu folosim external programs, prea mult overhead.)
