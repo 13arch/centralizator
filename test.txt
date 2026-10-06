@@ -17,3 +17,5 @@ internet -> Bridge -> Firewall (router) -> Switch
 					            -> LAN -> AP -> Devices
 
 Asa ar arata basic infra-ul pentru un SIEM
+
+test
